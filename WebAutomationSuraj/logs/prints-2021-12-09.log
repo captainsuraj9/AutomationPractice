@@ -1,0 +1,6 @@
+23:55:34.960 [main] INFO  SeleniumPracticeAutomationTest.OrderTshirt - Order is successful FJIIFEBX
+23:58:12.993 [main] INFO  SeleniumPracticeAutomationTest.OrderTshirt - Landing page is displayed
+23:58:50.938 [main] INFO  SeleniumPracticeAutomationTest.OrderTshirt - Entered credentials and SignIn button clicked
+23:58:51.084 [main] INFO  SeleniumPracticeAutomationTest.OrderTshirt - User is signed in
+23:59:01.804 [main] INFO  SeleniumPracticeAutomationTest.OrderTshirt - TShirts link clicked
+23:59:14.108 [main] INFO  SeleniumPracticeAutomationTest.OrderTshirt - Selected tshirt page opened

@@ -1,0 +1,5 @@
+23:59:45.459 [main] INFO  SeleniumPracticeAutomationTest.OrderTshirt - Add to cart successful
+00:00:47.413 [main] INFO  SeleniumPracticeAutomationTest.OrderTshirt - Order is successful XOIABYVDN
+00:03:13.410 [main] INFO  SeleniumPracticeAutomationTest.OrderTshirt - Landing page is displayed
+00:03:29.992 [main] INFO  SeleniumPracticeAutomationTest.OrderTshirt - Entered credentials and SignIn button clicked
+00:03:30.116 [main] INFO  SeleniumPracticeAutomationTest.OrderTshirt - User is signed in

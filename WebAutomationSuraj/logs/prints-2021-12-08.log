@@ -1,0 +1,5 @@
+23:55:00.891 [main] INFO  SeleniumPracticeAutomationTest.OrderTshirt - TShirts link clicked
+23:55:10.713 [main] INFO  SeleniumPracticeAutomationTest.OrderTshirt - Selected tshirt page opened
+23:55:21.967 [main] INFO  SeleniumPracticeAutomationTest.OrderTshirt - Add to cart successful
+23:59:25.347 [main] INFO  SeleniumPracticeAutomationTest.OrderTshirt - Landing page is displayed
+23:59:52.830 [main] INFO  SeleniumPracticeAutomationTest.OrderTshirt - Entered credentials and SignIn button clicked

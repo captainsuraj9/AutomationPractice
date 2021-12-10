@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-10T00:02:52 IST" name="Default suite" finished-at="2021-12-10T00:04:42 IST" duration-ms="110464">
+    <groups>
+    </groups>
+    <test started-at="2021-12-10T00:02:52 IST" name="Default test" finished-at="2021-12-10T00:04:42 IST" duration-ms="110464">
+      <class name="SeleniumPracticeAutomationTest.OrderTshirt">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:SeleniumPracticeAutomationTest.OrderTshirt@2b95e48b]" started-at="2021-12-10T00:02:52 IST" name="beforeTest" finished-at="2021-12-10T00:03:11 IST" duration-ms="19444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="orderTshirt(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:SeleniumPracticeAutomationTest.OrderTshirt@2b95e48b]" started-at="2021-12-10T00:03:13 IST" name="orderTshirt" data-provider="getData" finished-at="2021-12-10T00:04:42 IST" duration-ms="89710" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[suraj.pahwa29@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderTshirt -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:SeleniumPracticeAutomationTest.OrderTshirt@2b95e48b]" started-at="2021-12-10T00:04:42 IST" name="closeDriver" finished-at="2021-12-10T00:04:42 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- SeleniumPracticeAutomationTest.OrderTshirt -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
